@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 08 11:09:36 2012
 
-@author: che
-"""
 
 ############每个词都出现在哪篇文档中#######
 from collections import defaultdict
