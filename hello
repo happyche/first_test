@@ -1,0 +1,14 @@
+#from BeautifulSoup import BeautifulSoup
+#import urllib2  
+#  
+#response = urllib2.urlopen('http://www.baidu.com/')  
+#
+#soup=BeautifulSoup(response.read())
+#print soup 
+
+
+import os 
+for path, dirs, files in os.walk(r'G:\pdf\test'):
+    print path
+    print dirs
+    #print files
