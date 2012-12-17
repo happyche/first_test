@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 09 21:13:10 2012
 
-@author: che
-
-"""
 
 from gensim import corpora
 import  cPickle as pickle
